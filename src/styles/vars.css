@@ -4,5 +4,15 @@
 
     /* BACKGROUND */
     --bg-icon: #131313;
+    --bg-top-bar: #58585842;
     --bg-arrow-color: rgba(0,0,0,7); 
+
+    /* TEXT */
+    --text-base-dark: #000;
+    --text-base-light: #fff;
+    --text-sub: #a7a7a7;
+
+    /* POSICAO */
+    --grid-gap: 24px;
+    --column-count: 5;
 }

@@ -1,0 +1,5 @@
+{
+    "artists": [
+      { "id": 1, "name": "Foo Fighters", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" }
+    ]
+  }
